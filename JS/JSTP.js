@@ -1,4 +1,5 @@
 alert("Hello Leo ,its me again");
+alert("..");
 
 var bouton = document.getElementById("btn-search");
 bouton.addEventListener("click",function(){
